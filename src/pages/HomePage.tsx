@@ -78,7 +78,7 @@ const HomePage = () => {
               { name: 'JavaScript', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png', url: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' },
               { name: 'Vite', logo: 'https://vitejs.dev/logo-with-shadow.png', url: 'https://vitejs.dev/' },
               { name: 'Next.js', logo: 'https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png', url: 'https://nextjs.org/' },
-              { name: 'Docker', logo: 'https://images.seeklogo.com/logo-png/50/1/mongodb-icon-logo-png_seeklogo-503274.png', url: 'https://www.docker.com/' },
+              { name: 'Docker', logo: 'https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png', url: 'https://www.docker.com/' },
             ].map((tech, index) => (
               <a 
                 key={index}
@@ -106,7 +106,7 @@ const HomePage = () => {
               { name: 'Node.js', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-nodejs-2-226035.png', url: 'https://nodejs.org/' },
               { name: 'Express', logo: 'https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png', url: 'https://expressjs.com/' },
               { name: '.NET Core', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png', url: 'https://dotnet.microsoft.com/' },
-              { name: 'MongoDB', logo: 'https://www.mongodb.com/assets/images/global/leaf.svg', url: 'https://www.mongodb.com/' },
+              { name: 'MongoDB', logo: 'https://images.seeklogo.com/logo-png/50/1/mongodb-icon-logo-png_seeklogo-503274.png', url: 'https://www.mongodb.com/' },
               { name: 'SQL', logo: 'https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png', url: 'https://www.microsoft.com/en-us/sql-server/' },
             ].map((tech, index) => (
               <a 
